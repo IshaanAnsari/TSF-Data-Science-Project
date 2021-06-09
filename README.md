@@ -11,6 +11,17 @@ Data-set: - http://bit.ly/w-data
 
 
 
+# TSF Task - 2
+# Prediction using Unsupervised ML
+
+## From the given ‘Iris’ dataset, I predicted the optimum number of clusters and represent it visually. 
+
+## Technologies used
+- Python
+- Jupyter Notebook
+
+Data-set: - https://bit.ly/3kXTdox
+
 
 
 
@@ -31,4 +42,4 @@ Various cricket organizations can use this ‘Exploratory Data Analysis’ to tr
 - Jupyter Notebook
 - A .csv file for data-set that need to be analyzsed
 
-**Dataset**: https://bit.ly/34SRn3b
+Data-set: - https://bit.ly/34SRn3b
