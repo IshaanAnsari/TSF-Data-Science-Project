@@ -14,7 +14,7 @@ Data-set: - http://bit.ly/w-data
 # TSF Task - 2
 # Prediction using Unsupervised ML
 
-## From the given ‘Iris’ dataset, I predicted the optimum number of clusters and represent it visually. \
+## From the given ‘Iris’ dataset, I predicted the optimum number of clusters and represent it visually. 
 
 ### ALGORITHM USED - K-Means
 
